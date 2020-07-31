@@ -1,3 +1,20 @@
+    
+## Results 
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/118035.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/118035.png?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/135069.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/135069.png?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/189080.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/189080.png?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/21077.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/21077.png?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/lowLight_dataset/2015_00010.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/ExtraCredit/output_lowLight_dataset/2015_00010.png?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/lowLight_dataset/2015_03062.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/ExtraCredit/output_lowLight_dataset/2015_03062.png)
+
+## Objective
+The objective of the project was to implement canny edge detection for an image without the use of already available libraries like openCV. 
 
 ## Directory Structure:
 - readme.txt
@@ -11,8 +28,7 @@
 *Note: The high and low thresholds have been set individually for each of the output images by taking multipliers of the mean and standard deviation of the gradient magnitudes. 
 
 
-## Objective
-The objective of the project was to implement canny edge detection for an image without the use of already available libraries like openCV. 
+
 ## Main Components
 The algorithm can be broken down into the following main parts:
 1. findDerivatives.py:
@@ -39,17 +55,3 @@ The algorithm can be broken down into the following main parts:
   In the final implementation, the mean of all the multipliers is taken. 
     
     
-    
-## Results
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/118035.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/118035.png?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/135069.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/135069.png?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/189080.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/189080.png?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/21077.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/21077.png?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/lowLight_dataset/2015_00010.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/ExtraCredit/output_lowLight_dataset/2015_00010.png?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/lowLight_dataset/2015_03062.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/ExtraCredit/output_lowLight_dataset/2015_03062.png)
