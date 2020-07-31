@@ -1,4 +1,6 @@
-    
+## Objective
+The objective of the project was to implement canny edge detection for an image without the use of already available libraries like openCV. 
+
 ## Results 
 ![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/canny_dataset/118035.jpg?raw=true)
 ![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/output_canny_dataset/118035.png?raw=true)
@@ -13,8 +15,7 @@
 ![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/lowLight_dataset/2015_03062.jpg?raw=true)
 ![alt text](https://github.com/tejas0809/CV-CannyEdgeDetection/blob/master/ExtraCredit/output_lowLight_dataset/2015_03062.png)
 
-## Objective
-The objective of the project was to implement canny edge detection for an image without the use of already available libraries like openCV. 
+
 
 ## Directory Structure:
 - readme.txt
