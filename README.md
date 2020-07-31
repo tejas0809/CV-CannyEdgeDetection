@@ -1,4 +1,4 @@
-README
+
 Structure:
 a. readme.txt
 a. canny_dataset: folder containing input images
